@@ -1,0 +1,79 @@
+.katta{
+    border: 2px;
+    width: 800px;
+    height: 1000px;
+    margin: 30px;
+    background-color: white;
+}
+body{
+    background-color: darkgray;
+}
+.a1{
+    margin: 30px;
+    padding: 10px;
+}
+.a2{
+    position: absolute;
+    left :500px;
+    top: 40px;
+}
+.a3{
+    position: absolute;
+    left :600px;
+    top: 40px;
+}
+.a4{
+    position: absolute;
+    left :700px;
+    top: 40px;
+}
+.a5{
+    width: 250px;
+    position: absolute;
+    left: 500px;
+}
+.a6{
+    width: 80px;
+    border: 1px ;
+    height: 80px;
+    background-color: red;
+    border-radius: 0px 120px 0px 0px ;
+    position: absolute;
+    left: 690px;
+}
+.a7{
+    position: absolute;
+    right: 202px;
+    bottom:40px;
+    transform:skew(60deg) ;
+}
+.a8{
+    position: absolute;
+    right: 1px;
+    top:250px;
+    transform:skewY(45deg) ;
+}
+
+.a9{
+    width: 80px;
+    border: 1px ;
+    height: 80px;
+    background-color: rgb(0, 128, 128);
+    border-radius: 0px 30px 0px 30px ;
+    position: absolute;
+    right: 230px;
+    top: 220px;
+}
+.box{
+    position: absolute;
+    bottom: 300px;
+}
+.box2{
+    font-size:50px;
+    line-height: 10px;
+}
+.a10{
+    position: absolute;
+    top: 400px;
+    right: 590px;
+}
