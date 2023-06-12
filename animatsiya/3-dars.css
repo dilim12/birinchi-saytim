@@ -1,0 +1,122 @@
+.wrap{
+    display: flex; 
+}
+.box{
+    border-radius: 100px ;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+margin: 20px;
+}
+.box1{
+    background-color: black;
+    width: 40px;
+    height: 150px;
+    margin: 20px;
+    transform: skew(-0.06turn,1deg);
+}
+
+.box2{
+    background-color: black;
+    width: 40px;
+    height: 150px;
+    margin: 20px;
+    animation-name: hello;
+    transform: skew(-0.06turn,1deg);
+}
+@keyframes hello{
+    from{
+        
+    }
+    to{
+      
+    }
+}
+.box3{
+   border: 1px red solid;
+   width: 110px;
+   text-align: center;
+   height: 30px;
+   position: absolute;
+   bottom: 530px;
+   background-color: red;
+   color: white;
+   
+}
+.bir{
+  font-size: 30px;
+    
+}
+.box4{
+    border: 1px ;
+    width: 10px;
+    height: 10px;
+    background-color: pink;
+    border-radius: 100px;
+    margin: 20px;
+    padding: 20px;
+    animation: hello1 2s infinite linear;
+}
+.d{
+    position: absolute;
+    top: 40px;
+    left: 510px;
+    width:25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 100px;
+    animation: hello 2s infinite linear;
+}
+@keyframes hello{
+from{
+    transform: scale(1.5);
+    opacity: 0.9;
+}
+to{
+    transform:scale (1.5);
+    opacity: 0.9;
+}
+}
+
+@keyframes hello1{
+    from{
+        transform:scale (1.5);
+        opacity: 0.9;
+    }
+    to{
+        transform:scale (1.5);
+        opacity: 0.9;
+    }
+}
+    
+.box5{
+    position: absolute;
+    top: 40px;
+    left: 510px;
+    width:25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 100px;
+    animation: hello 2s infinite linear;
+}
+@keyframes hello{
+from{
+    transform: scale(1.5);
+    opacity: 0.9;
+}
+to{
+    transform:scale (1.5);
+    opacity: 0.9;
+}
+}
+
+@keyframes hello1{
+    from{
+        transform:scale (1.5);
+        opacity: 0.6;
+    }
+    to{
+        transform:scale (1.5);
+        opacity: 0.6;
+    }
+}

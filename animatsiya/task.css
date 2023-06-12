@@ -1,0 +1,124 @@
+.wrap{ 
+    border: 1px solid blue;
+    background-color: blue;
+    width: 1150px;
+    height:500px;
+    color: white;
+    display: flex;
+    
+    
+    
+}
+.wrap:hover{
+    border: 5px solid green;
+    border-radius: 30px;
+}
+.box9{
+    font-size: 70px;
+    position: relative;
+    left: 300px;
+    font-size: 50px;
+}
+.bir{
+    margin: 10px;
+    padding: 10px;
+    width: 170px;
+    border-radius: 40px;
+    position: absolute;
+    bottom: 100px;
+}
+.bir:hover{
+    border: 5px solid green;
+    border-radius: 30px;
+
+}
+
+.ikki{
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    
+    border-radius: 40px;
+    position: absolute;
+    bottom: 100px;
+   left: 200px
+
+}
+.ikki:hover{
+    border: 5px solid green;
+    border-radius: 30px;
+
+}
+
+
+.uch{
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    
+    border-radius: 40px;
+    position: absolute;
+    bottom: 100px;
+    left: 450px;
+
+}
+.uch:hover{
+    border: 5px solid green;
+    border-radius: 30px;
+
+}
+
+
+.tort{
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    
+    border-radius: 40px;
+    position: absolute;
+    bottom: 100px;
+   left: 680px;
+
+}
+.tort:hover{
+    border: 5px solid green;
+    border-radius: 30px;
+
+}
+
+
+.besh{
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    
+    border-radius: 40px;
+    position: absolute;
+    bottom: 100px;
+   left: 900px;
+
+}
+.besh:hover{
+    border: 5px solid green;
+    border-radius: 30px;
+
+}
+.OLTI{
+position: absolute;
+left: 500px;
+   
+}
+.button{
+    background-color: blue;
+    border: 2px solid white;
+    color: white;
+}
+.p1{
+    position: absolute;
+    left: 500px;
+    top: 10px;
+}
